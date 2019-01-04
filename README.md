@@ -1,0 +1,2 @@
+# goFirst
+myFirstGoApp
